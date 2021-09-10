@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "title": "Ноутбук Lenovo IdeaPad C340-14IML (Intel Core i3 10110",
+      "price": "56 490   ₽",
+      "photo": "https://main-cdn.goods.ru/big1/hlr-system/-1/27/80/89/74/14/26/100026038887b0.jpg",
+      "description": "Ноутбук Lenovo IdeaPad C340-14IML (Intel Core i3 10110U 2100MHz/14\"/1920x1080/8GB/256GB",
+      "id": 1
+    },
+    {
+      "title": "Камера Panasonic AG-AC30EJ",
+      "price": "134 743   ₽",
+      "photo": "https://technoit.ru/wa-data/public/shop/products/35/59/1885935/images/232987/232987.750x0.jpg",
+      "description": "Бесплатная доставка по Москве в пределах МКАД. Срок поставки 4-6 недель после подтверждения оплаты. Доставка по России согласовывается с менеджером. Официальная гарантия на поставляемый товар. Доставка осуществляется до «автомобильного подъезда» Стоимость доставки не включает в себя услуги по разгрузке и подъёму товара. Подробнее",
+      "id": 2
+    },
+    {
+      "title": "lmv;qvqml;",
+      "price": "mlc;dml;va",
+      "photo": "https://bugaga.ru/uploads/posts/2019-05/1557921502_pop-personazhi-19.jpg",
+      "description": "ml;vmda;",
+      "id": 4
+    }
+  ]
+}
