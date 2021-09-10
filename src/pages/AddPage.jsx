@@ -19,6 +19,7 @@ const AddPage = () => {
             ...newProdact, [e.target.name] : e.target.value
         }
         setNewProdact(obj);
+        console.log(obj);
     }
     const history = useHistory()
     function handleClick() {
